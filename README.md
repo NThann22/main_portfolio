@@ -1,5 +1,5 @@
 # 💼 Jonathan Pratama Portfolio - Frontend Developer #
-Hi there! 👋 I'm Jonathan Pratama, a passionate frontend developer focused on building responsive and user-friendly web applications. I specialize in modern JavaScript frameworks, intuitive UI/UX design, and bringing creative solutions to life.
+Hi there! 👋 I'm Jonathan Pratama, a passionate frontend developer focused on building responsive and user-friendly web applications. I still study in modern JavaScript frameworks, intuitive UI/UX design, and bringing creative solutions to life.
 
 ## 🚀 Tools ##
 * Languages : JavaScript, HTML, CSS *
