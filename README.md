@@ -1,8 +1,3 @@
-# Jonathan Pratama Portfolio
+“💼 Jonathan Pratama - Frontend Developer ======================================== Hi there! 👋 I'm Jonathan Pratama, a passionate frontend developer focused on building responsive and user-friendly web applications. I specialize in modern JavaScript frameworks, intuitive UI/UX design, and bringing creative solutions to life. 🚀 Skills & Tools ----------------- * **Languages:** JavaScript, HTML, CSS * **Frameworks:** React, Redux, Tailwind CSS * **Tools:** Git, Figma, Vite, React Query * **Other Expertise:** Responsive Design, RESTful APIs, Clean Code Principles 🌐 Explore My Work ------------------ Check out some of my featured projects: * **[Project 1](#)** - A web app built with React and Redux for seamless content management. * **[Project 2](#)** - A portfolio website designed to showcase my skills and projects. 📫 Connect with Me ------------------ * [LinkedIn](#) | [GitHub](#) | [Email](#)”
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
